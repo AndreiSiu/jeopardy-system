@@ -1,0 +1,800 @@
+
+CATEGORY: NEWSPAPERS
+CLUE: The dominant paper in our nation's capital, it's among the top 10 U.S. papers in circulation
+ANSWER: The Washington Post
+KEYWORDS QUERY: ["our nation's capital", 'it', 'the top 10 U.S. papers', 'circulation']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: OLD YEAR'S RESOLUTIONS
+CLUE: The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China
+ANSWER: Taiwan
+KEYWORDS QUERY: ['The practice', 'pre-authorizing presidential use', 'force', 'a 1955 resolution', 'this island', 'mainland China']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NEWSPAPERS
+CLUE: Daniel Hertzberg & James B. Stewart of this paper shared a 1988 Pulitzer for their stories about insider trading
+ANSWER: The Wall Street Journal
+KEYWORDS QUERY: ['Daniel Hertzberg', 'James B. Stewart', 'this paper', 'a 1988 Pulitzer', 'their stories', 'insider trading']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: BROADWAY LYRICS
+CLUE: Song that says, "you make me smile with my heart; your looks are laughable, unphotographable"
+ANSWER: My Funny Valentine
+KEYWORDS QUERY: ['that', 'you', 'me', 'my heart', 'your looks']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: POTPOURRI
+CLUE: In 2011 bell ringers for this charity started accepting digital donations to its red kettle
+ANSWER: The Salvation Army|Salvation Army
+KEYWORDS QUERY: ['2011 bell ringers', 'this charity', 'digital donations', 'its red kettle']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+CLUE: The Naples Museum of Art
+ANSWER: Florida
+KEYWORDS QUERY: ['The Naples Museum', 'Art']
+RESULTS: ['Art Nouveau', 'Culture of Italy', 'Glasgow', 'Caravaggio', 'Edgar Degas', 'Cave painting', 'Amedeo Modigliani', 'Milan', 'Raphael', 'Rome']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: "TIN" MEN
+CLUE: This Italian painter depicted the "Adoration of the Golden Calf"
+ANSWER: Tintoretto
+KEYWORDS QUERY: ['This Italian painter', 'the "Adoration', 'the Golden Calf']
+RESULTS: ['Tintoretto', 'Nicolas Poussin']
+PRECISION AT 1: CORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: UCLA CELEBRITY ALUMNI
+CLUE: This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship
+ANSWER: Jackie Joyner-Kersee
+KEYWORDS QUERY: ['This woman', 'who', 'consecutive heptathlons', 'the Olympics', 'UCLA', 'a basketball scholarship']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: SERVICE ORGANIZATIONS
+CLUE: Originally this club's emblem was a wagon wheel; now it's a gearwheel with 24 cogs & 6 spokes
+ANSWER: Rotary International
+KEYWORDS QUERY: ["this club's emblem", 'a wagon wheel', 'it', 'a gearwheel', '24 cogs', '6 spokes']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: AFRICAN CITIES
+CLUE: Several bridges, including El Tahrir, cross the Nile in this capital
+ANSWER: Cairo
+KEYWORDS QUERY: ['Several bridges', 'El Tahrir', 'the Nile', 'this capital']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: HISTORICAL QUOTES
+CLUE: After the fall of France in 1940, this general told his country, "France has lost a battle. But France has not lost the war"
+ANSWER: Charles de Gaulle|de Gaulle
+KEYWORDS QUERY: ['the fall', 'France', 'this general', 'his country', 'France', 'a battle', 'France', 'the war']
+RESULTS: ['Gulf War', 'Winston Churchill', 'Erwin Rommel', 'Chiang Kai-shek', 'Battle of Trafalgar', 'Canada–United States relations', 'History of Iran', 'Middle Ages', 'Scorched earth', 'Charlemagne']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+CLUE: The Taft Museum of Art
+ANSWER: Ohio
+KEYWORDS QUERY: ['The Taft Museum', 'Art']
+RESULTS: ['Museum of Science and Industry (Chicago)', 'Cooper Union', 'Chicago', 'Sculpture of the United States', 'Phoenix, Arizona', 'Rome', 'Stanley Kubrick', 'Campus of the University of Illinois at Urbana–Champaign', 'Malacañang Palace', 'Yale University']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CEMETERIES
+CLUE: The mast from the USS Maine is part of the memorial to the ship & crew at this national cemetery
+ANSWER: Arlington National Cemetery|Arlington Cemetery
+KEYWORDS QUERY: ['The mast', 'the USS Maine', 'part', 'the memorial', 'the ship', 'crew', 'this national cemetery']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: GOLDEN GLOBE WINNERS
+CLUE: In 2009: Joker on film
+ANSWER: Heath Ledger
+KEYWORDS QUERY: ['Joker', 'film']
+RESULTS: ["Monty Python's Life of Brian", 'The Three Stooges', 'Mark Hamill', 'Heath Ledger', 'The Great Dictator', 'Joker (playing card)', 'Russell Crowe', 'Cecil B. DeMille', 'Daana Veera Soora Karna', 'LGBT themes in speculative fiction']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: HISTORICAL HODGEPODGE
+CLUE: It was the peninsula fought over in the peninsular war of 1808 to 1814
+ANSWER: Iberia|Iberian Peninsula
+KEYWORDS QUERY: ['It', 'the peninsula', 'the peninsular war']
+RESULTS: ['Korean War', 'Napoleonic Wars', 'History of the Royal Navy', 'Royal Navy', 'Image:CastillaLeon 1360.png|thumb|Iberian polities circa 1360.', 'Spain', 'History of Cuba', 'Cavalry', 'Italy', 'History of Spain']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CONSERVATION
+CLUE: In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve
+ANSWER: Panda|Giant panda
+KEYWORDS QUERY: ['China', 'a center', 'these cute creatures']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: '80s NO.1 HITMAKERS
+CLUE: 1988: "Father Figure"
+ANSWER: George Michael
+KEYWORDS QUERY: ['1988: "Father Figure']
+RESULTS: ['Moors murders', 'Nontrinitarianism', 'Oneness Pentecostalism', 'Empire of Brazil', 'Comma Johanneum', 'Ozzie Smith', 'Edward II of England', 'Whitney Houston', 'File:US miscegenation.svg|thumb|left|U.S States, by the date of repeal of anti-miscegenation laws: [tpl]legend|#d3d3d3|No laws passed[/tpl]\n[tpl]legend|#cc2f2f|12 June 1967[/tpl', 'Michael Jackson']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: AFRICAN-AMERICAN WOMEN
+CLUE: In an essay defending this 2011 film, Myrlie Evers-Williams said, "My mother was" this film "& so was her mother"
+ANSWER: The Help
+KEYWORDS QUERY: ['an essay', 'this 2011 film', 'Myrlie Evers-Williams', 'My mother', 'this film', 'her mother']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: SERVICE ORGANIZATIONS
+CLUE: Father Michael McGivney founded this fraternal society for Catholic laymen in 1882
+ANSWER: Knights of Columbus
+KEYWORDS QUERY: ['Father Michael McGivney', 'this fraternal society', 'Catholic laymen']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CONSERVATION
+CLUE: Early projects of the WWF, this organization, included work with the bald eagle & the red wolf
+ANSWER: World Wide Fund|World Wide Fund for Nature
+KEYWORDS QUERY: ['Early projects', 'the WWF', 'this organization', 'work', 'the bald eagle', 'the red wolf']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CONSERVATION
+CLUE: Indonesia's largest lizard, it's protected from poachers, though we wish it could breathe fire to do the job itself
+ANSWER: Komodo dragon
+KEYWORDS QUERY: ['it', 'poachers', 'we', 'it', 'fire', 'the job']
+RESULTS: ['Chad']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: 1920s NEWS FLASH!
+CLUE: Nov. 28, 1929! This man & his chief pilot Bernt Balchen fly to South Pole! Yowza! You'll be an admirable admiral, sir!
+ANSWER: Richard Byrd|Richard E. Byrd
+KEYWORDS QUERY: ['Nov.', 'This man', 'his chief pilot', 'Bernt Balchen', 'South Pole', 'Yowza', 'You', 'an admirable admiral']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CEMETERIES
+CLUE: On May 5, 1878 Alice Chambers was the last person buried in this Dodge City, Kansas cemetery
+ANSWER: Boot Hill
+KEYWORDS QUERY: ['May', '1878 Alice Chambers', 'the last person', 'this Dodge City', 'Kansas cemetery']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CAMBODIAN HISTORY & CULTURE
+CLUE: The Royal Palace grounds feature a statue of King Norodom, who in the late 1800s was compelled to first put his country under the control of this European power; of course, it was sculpted in that country
+ANSWER: France
+KEYWORDS QUERY: ['The Royal Palace grounds', 'a statue', 'King Norodom', 'who', 'the late 1800s', 'his country', 'the control', 'this European power', 'course', 'it', 'that country']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: HISTORICAL HODGEPODGE
+CLUE: In the 400s B.C. this Chinese philosopher went into exile for 12 years
+ANSWER: Confucius
+KEYWORDS QUERY: ['the 400s', 'B.C.', 'this Chinese philosopher', 'exile', '12 years']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: AFRICAN-AMERICAN WOMEN
+CLUE: Bessie Coleman, the first black woman licensed as a pilot, landed a street named in her honor at this Chicago airport
+ANSWER: O'Hare|O'Hare International Airport
+KEYWORDS QUERY: ['Bessie Coleman', 'the first black woman', 'a pilot', 'a street', 'her honor', 'this Chicago airport']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: HISTORICAL HODGEPODGE
+CLUE: The Ammonites held sway in this Mideast country in the 1200s B.C. & the capital is named for them
+ANSWER: Jordan
+KEYWORDS QUERY: ['The Ammonites', 'sway', 'this Mideast country', 'the 1200s B.C.', 'the capital', 'them']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: HE PLAYED A GUY NAMED JACK RYAN IN...
+CLUE: "The Sum of All Fears"; he also won a screenwriting Oscar for "Good Will Hunting"
+ANSWER: Ben Affleck
+KEYWORDS QUERY: ['All Fears', 'he', 'a screenwriting Oscar', 'Good']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: POTPOURRI
+CLUE: One of the N.Y. Times' headlines on this landmark 1973 Supreme Court decision was "Cardinals shocked"
+ANSWER: Roe v. Wade
+KEYWORDS QUERY: ["the N.Y. Times' headlines", 'this landmark', '1973 Supreme Court decision', 'Cardinals']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: I'M BURNIN' FOR YOU
+CLUE: France's Philip IV--known as "The Fair"--had Jacques De Molay, the last Grand Master of this order, burned in 1314
+ANSWER: Knights Templar
+KEYWORDS QUERY: ["France's Philip IV", 'The Fair"--had Jacques De Molay', 'the last Grand Master', 'this order']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+CLUE: The Georgia O'Keeffe Museum
+ANSWER: New Mexico
+KEYWORDS QUERY: ["The Georgia O'Keeffe Museum"]
+RESULTS: ['Alfred Stieglitz', 'Museum of Modern Art', 'Todd Webb', 'History of painting', 'Edward Hopper', 'University of Virginia', 'Phillips Academy', 'Yousuf Karsh', 'Palo Duro Canyon', 'Zelda Fitzgerald']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: AFRICAN CITIES
+CLUE: The name of this largest Moroccan city combines 2 Spanish words
+ANSWER: Casablanca
+KEYWORDS QUERY: ['The name', 'this largest Moroccan city', '2 Spanish words']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NAME THE PARENT COMPANY
+CLUE: Jell-O
+ANSWER: Kraft Foods
+KEYWORDS QUERY: ['Jell-O']
+RESULTS: ['Jell-O', 'brain sandwich', '3rd Rock from the Sun', 'Cold Stone Creamery', 'Colloid', 'Cretaceous–Paleogene extinction event', 'James Beard', 'Vegetarianism', 'The Three Stooges', 'Blake Edwards']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: GOLDEN GLOBE WINNERS
+CLUE: 2011: Chicago mayor Tom Kane
+ANSWER: Kelsey Grammer
+KEYWORDS QUERY: ['Chicago mayor Tom Kane']
+RESULTS: ['Chicago', 'Citizen Kane', 'Chicago Cubs', 'Roger Ebert', 'Steven Spielberg', 'Captain America', 'Ernie Kovacs', 'Arlen Specter']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: THE RESIDENTS
+CLUE: Title residence of Otter, Flounder, Pinto & Bluto in a 1978 comedy
+ANSWER: Animal House
+KEYWORDS QUERY: ['Title residence', 'Otter', 'Flounder', 'Pinto', 'Bluto', 'a 1978 comedy']
+RESULTS: ['Animal House']
+PRECISION AT 1: CORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: UCLA CELEBRITY ALUMNI
+CLUE: Neurobiologist Amy Farrah Fowler on "The Big Bang Theory", in real life she has a Ph.D. in neuroscience from UCLA
+ANSWER: Mayim Bialik
+KEYWORDS QUERY: ['Neurobiologist Amy Farrah Fowler', 'The Big Bang Theory', 'real life', 'she', 'a Ph.D.', 'neuroscience', 'UCLA']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NOTES FROM THE CAMPAIGN TRAIL
+CLUE: In "The Deadlocked Election of 1800", James R. Sharp outlines the fall of this dueling vice president
+ANSWER: Aaron Burr
+KEYWORDS QUERY: ['"The Deadlocked Election', 'James R. Sharp', 'the fall', 'this dueling vice president']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: "TIN" MEN
+CLUE: He served in the KGB before becoming president & then prime minister of Russia
+ANSWER: Vladimir Putin|Putin
+KEYWORDS QUERY: ['He', 'the KGB', 'president', 'then prime minister', 'Russia']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: AFRICAN-AMERICAN WOMEN
+CLUE: When asked to describe herself, she says first & foremost, she is Malia & Sasha's mom
+ANSWER: Michelle Obama
+KEYWORDS QUERY: ['herself', 'she', 'she', 'Malia', "Sasha's mom"]
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: POETS & POETRY
+CLUE: She wrote, "My candle burns at both ends... but, ah, my foes, and oh, my friends--it gives a lovely light"
+ANSWER: Edna St. Vincent Millay
+KEYWORDS QUERY: ['She', 'My candle', 'both ends', 'my friends', 'it', 'a lovely light']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+CLUE: In this Finnish city, the Lutheran Cathedral, also known as Tuomiokirkko
+ANSWER: Helsinki
+KEYWORDS QUERY: ['this Finnish city', 'Tuomiokirkko']
+RESULTS: ['Savonlinna']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NAME THE PARENT COMPANY
+CLUE: Milton Bradley games
+ANSWER: Hasbro
+KEYWORDS QUERY: ['Milton Bradley games']
+RESULTS: ['Axis & Allies', 'History of video games', 'The Price Is Right (U.S. game show)', 'Vectrex', 'Handheld game console', 'Microvision', 'Hasbro', 'Battleship (game)', 'Snakes and Ladders', 'Scooby-Doo']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: OLD YEAR'S RESOLUTIONS
+CLUE: The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress
+ANSWER: The Alien and Sedition Acts
+KEYWORDS QUERY: ['The Kentucky & Virginia resolutions', 'these controversial 1798 acts', 'Congress']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: '80s NO.1 HITMAKERS
+CLUE: 1983: "Beat It"
+ANSWER: Michael Jackson
+KEYWORDS QUERY: ['It']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: GOLDEN GLOBE WINNERS
+CLUE: In 2009: Sookie Stackhouse
+ANSWER: Anna Paquin
+KEYWORDS QUERY: ['In 2009: Sookie Stackhouse']
+RESULTS: ['True Blood', 'Anna Paquin']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: HISTORICAL HODGEPODGE
+CLUE: This member of the Nixon & Ford cabinets was born in Furth, Germany in 1923
+ANSWER: Henry Kissinger
+KEYWORDS QUERY: ['This member', 'the Nixon & Ford cabinets', 'Furth', 'Germany']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+CLUE: The High Kirk of St. Giles, where John Knox was minister
+ANSWER: Edinburgh
+KEYWORDS QUERY: ['The High Kirk', 'St. Giles', 'John Knox', 'minister']
+RESULTS: ['John Knox', 'History of Scotland', 'Church of Scotland', 'Edinburgh', 'Scottish Episcopal Church', 'James Douglas, 4th Earl of Morton']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: UCLA CELEBRITY ALUMNI
+CLUE: For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production
+ANSWER: James Dean
+KEYWORDS QUERY: ['the brief time', 'he', 'he', 'a rebel', 'a cause', 'a lead role', 'a 1950 stage production']
+RESULTS: ['Stanley Kubrick', 'Individualist anarchism', 'Alan Ladd']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NAME THE PARENT COMPANY
+CLUE: Fisher-Price toys
+ANSWER: Mattel
+KEYWORDS QUERY: ['Fisher-Price toys']
+RESULTS: ['Mattel', 'Jewel (singer)', 'Hasbro', 'Super Friends', 'Buzzy Bee']
+PRECISION AT 1: CORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: HISTORICAL QUOTES
+CLUE: In a 1959 American kitchen exhibit in Moscow, he told Khrushchev, "In America, we like to make life easier for women"
+ANSWER: Richard Nixon|Nixon
+KEYWORDS QUERY: ['a 1959 American kitchen exhibit', 'Moscow', 'he', 'Khrushchev', 'America', 'we', 'life', 'women']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: POETS & POETRY
+CLUE: One of his "Tales of a Wayside Inn" begins, "Listen, my children, and you shall hear of the midnight ride of Paul Revere"
+ANSWER: Henry Wadsworth Longfellow
+KEYWORDS QUERY: ['his "Tales', 'a Wayside Inn', 'you', 'the midnight ride', 'Paul Revere']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NOTES FROM THE CAMPAIGN TRAIL
+CLUE: This bestseller about problems on the McCain-Palin ticket became an HBO movie with Julianne Moore
+ANSWER: Game Change
+KEYWORDS QUERY: ['This bestseller', 'problems', 'the McCain-Palin ticket', 'an HBO movie', 'Julianne Moore']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: THAT 20-AUGHTS SHOW
+CLUE: A 2-part episode of "JAG" introduced this Mark Harmon drama
+ANSWER: NCIS
+KEYWORDS QUERY: ['A 2-part episode', 'JAG', 'this Mark Harmon drama']
+RESULTS: ['List of NCIS characters']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: AFRICAN CITIES
+CLUE: This port is the southernmost of South Africa's 3 capitals
+ANSWER: Cape Town
+KEYWORDS QUERY: ['This port', 'the southernmost', "South Africa's 3 capitals"]
+RESULTS: ['Maryland']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: THE QUOTABLE KEATS
+CLUE: Keats was quoting this Edmund Spenser poem when he told Shelley to "'load every rift' of your subject with ore"
+ANSWER: The Faerie Queene
+KEYWORDS QUERY: ['Keats', 'this Edmund Spenser poem', 'he', 'Shelley', 'every rift', 'your subject', 'ore']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: THE QUOTABLE KEATS
+CLUE: In an 1819 letter Keats wrote that this lord & poet "cuts a figure, but he is not figurative"
+ANSWER: Lord Byron
+KEYWORDS QUERY: ['an 1819 letter Keats', 'this lord', 'poet', 'a figure', 'he']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: GREEK FOOD & DRINK
+CLUE: This clear Greek liqueur is quite potent, so it's usually mixed with water, which turns it white & cloudy
+ANSWER: Ouzo
+KEYWORDS QUERY: ['This clear Greek liqueur', 'it', 'water', 'which', 'it']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: OLD YEAR'S RESOLUTIONS
+CLUE: Feb. 1, National Freedom Day, is the date in 1865 when a resolution sent the states an amendment ending this
+ANSWER: Slavery|Slavery in the United States
+KEYWORDS QUERY: ['Feb.', 'National Freedom Day', 'the date', 'a resolution', 'the states', 'an amendment', 'this']
+RESULTS: ['Puerto Rico', 'Anti-Counterfeiting Trade Agreement', 'eulogy', 'Creationism', 'Central Bank of Ireland', 'FARC', 'Vietnam War', 'Dennis Kucinich', 'Image:RC (Taiwan).png|thumb|right|Countries maintaining relations with the ROC[tpl]legend|#008000|diplomatic relations and embassy in Taipei[/tpl]\n[tpl]legend|#0080ff|unofficial relations (see text)[/tpl]|alt=A map of the world showing countries which have relations with the Republic of China. Only a few small countries recognize the ROC, mainly in Central, South America and Africa.', 'Sam Brownback']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: RANKS & TITLES
+CLUE: This person is the queen's representative in Canada; currently the office is held by David Johnston
+ANSWER: Governor General of Canada
+KEYWORDS QUERY: ['This person', "the queen's representative", 'Canada', 'the office', 'David Johnston']
+RESULTS: ['Governor General of Canada', 'Parliament of Canada', 'Brian Mulroney', 'Order of Military Merit (Canada)', 'Bob Rae', 'History of Scotland', 'Science (journal)|Science', 'Oklahoma City bombing']
+PRECISION AT 1: CORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: "TIN" MEN
+CLUE: He earned the "fifth Beatle" nickname by producing all of the Beatles' albums
+ANSWER: George Martin
+KEYWORDS QUERY: ['He', 'the "fifth Beatle" nickname', 'all', "the Beatles' albums"]
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NEWSPAPERS
+CLUE: Early in their careers, Mark Twain & Bret Harte wrote pieces for this California city's Chronicle
+ANSWER: San Francisco
+KEYWORDS QUERY: ['their careers', 'Mark Twain', 'Bret Harte', 'pieces', "this California city's Chronicle"]
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: POTPOURRI
+CLUE: Large specimens of this marsupial can leap over barriers 6 feet high
+ANSWER: Kangaroo
+KEYWORDS QUERY: ['Large specimens', 'this marsupial', 'barriers']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: GREEK FOOD & DRINK
+CLUE: Because it's cured & stored in brine, this crumbly white cheese made from sheep's milk is often referred to as pickled cheese
+ANSWER: Feta
+KEYWORDS QUERY: ['it', 'brine', 'this crumbly white cheese', "sheep's milk", 'pickled cheese']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: 1920s NEWS FLASH!
+CLUE: 1927! Gene Tunney takes a long count in the squared circle but rises to defeat this "Manassa Mauler"! Howzabout that!
+ANSWER: Jack Dempsey
+KEYWORDS QUERY: ['Gene Tunney', 'a long count', 'the squared circle', 'this "Manassa Mauler', 'that']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: RANKS & TITLES
+CLUE: Italian for "leader", it was especially applied to Benito Mussolini
+ANSWER: Duce
+KEYWORDS QUERY: ['"leader', 'it', 'Benito Mussolini']
+RESULTS: ['Fascism in Europe', 'Alessandra Mussolini', 'File:Magna Graecia ancient colonies and dialects.svg|thumb|Ancient Greek colonies and their dialect groupings in Southern Italy.[ref]\n</ref>\n[tpl]legend|#bebada|Ionian[/tpl', 'History of Albania', 'Italian Empire', "Giro d'Italia", 'Trials and allegations involving Silvio Berlusconi|trials for corruption, fraud and sex offences', 'Duce', 'Cult of personality', 'Joachim von Ribbentrop']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+CLUE: The Kalamazoo Institute of Arts
+ANSWER: Michigan
+KEYWORDS QUERY: ['The Kalamazoo Institute', 'Arts']
+RESULTS: ['Mei-Ann Chen', 'Grand Valley State University', 'College of William & Mary', 'Michigan', 'Lansing, Michigan', 'Hildegard of Bingen', 'Malcolm X', 'John C. Breckinridge']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+CLUE: The Sun Valley Center for the Arts
+ANSWER: Idaho
+KEYWORDS QUERY: ['The Sun Valley Center', 'the Arts']
+RESULTS: ['Phoenix, Arizona', 'Stanford University', 'Roanoke, Virginia', 'Binghamton, New York', 'Newark, New Jersey', 'Inland Empire', 'Roger Ebert', 'Manhattan', 'Chicago', 'File:Mobile Public Library 2008.jpg|thumb|The Ben May Main Library on Government Street.']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: "TIN" MEN
+CLUE: You can't mention this shortstop without mentioning his double-play associates Evers & Chance
+ANSWER: Joe Tinker
+KEYWORDS QUERY: ['You', 'this shortstop', 'his double-play associates', 'Evers', 'Chance']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NEWSPAPERS
+CLUE: In 1840 Horace Greeley began publishing "The Log Cabin", a weekly campaign paper in support of this Whig candidate
+ANSWER: William Henry Harrison
+KEYWORDS QUERY: ['Horace Greeley', '"The Log Cabin', 'a weekly campaign paper', 'support', 'this Whig candidate']
+RESULTS: ['Horace Greeley']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: I'M BURNIN' FOR YOU
+CLUE: Pierre Cauchon, Bishop of Beauvais, presided over the trial of this woman who went up in smoke May 30, 1431
+ANSWER: Joan of Arc|Jeanne d'Arc
+KEYWORDS QUERY: ['Pierre Cauchon', 'Bishop', 'Beauvais', 'the trial', 'this woman', 'who', 'smoke']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: COMPLETE DOM-INATION(Alex: Not "domination.")
+CLUE: This Wisconsin city claims to have built the USA's only granite dome
+ANSWER: Madison
+KEYWORDS QUERY: ['This Wisconsin city', "the USA's only granite dome"]
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NEWSPAPERS
+CLUE: This Georgia paper is known as the AJC for short
+ANSWER: The Atlanta Journal-Constitution
+KEYWORDS QUERY: ['This Georgia paper', 'the AJC']
+RESULTS: ['Georgia (U.S. state)', 'The Atlanta Journal-Constitution']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: AFRICAN CITIES
+CLUE: Wooden 2-story verandas in this Liberian capital are an architectural link to the U.S. south
+ANSWER: Monrovia
+KEYWORDS QUERY: ['Wooden 2-story verandas', 'this Liberian capital', 'an architectural link', 'the U.S.']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: COMPLETE DOM-INATION(Alex: Not "domination.")
+CLUE: This New Orleans venue reopened Sept. 25, 2006
+ANSWER: Mercedes-Benz Superdome|The Superdome
+KEYWORDS QUERY: ['This New Orleans venue']
+RESULTS: ['Manhattan', 'New Mexico', 'Mercedes-Benz Superdome', 'Paris', 'Louis Armstrong', 'Orleans (band)', 'Harry Connick, Jr.', 'French Quarter', 'Woody Allen', 'Preservation Hall Jazz Band']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: HE PLAYED A GUY NAMED JACK RYAN IN...
+CLUE: "The Hunt for Red October"; he went more comedic as Jack Donaghy on "30 Rock"
+ANSWER: Alec Baldwin
+KEYWORDS QUERY: ['Red October', 'he', 'Jack Donaghy', '"30 Rock']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: AFRICAN-AMERICAN WOMEN
+CLUE: Rita Dove titled a collection of poems "On the Bus with" this woman
+ANSWER: Rosa Parks
+KEYWORDS QUERY: ['Rita Dove', 'a collection', 'poems', 'the Bus', 'this woman']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: HE PLAYED A GUY NAMED JACK RYAN IN...
+CLUE: "Patriot Games"; he's had other iconic roles, in space & underground
+ANSWER: Harrison Ford
+KEYWORDS QUERY: ['Patriot Games', 'he', 'other iconic roles', 'space', 'underground']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: COMPLETE DOM-INATION(Alex: Not "domination.")
+CLUE: This sacred structure dates from the late 600's A.D.
+ANSWER: Dome of the Rock
+KEYWORDS QUERY: ['This sacred structure', "the late 600's A.D."]
+RESULTS: ['Roman Empire', 'Anglo-Saxons', 'Golden Eagle', 'History of Christianity', 'Culture of Italy', 'Christendom', 'Christianity', 'Rome', 'Snakebite', 'Louisiana']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: '80s NO.1 HITMAKERS
+CLUE: 1988: "Man In The Mirror"
+ANSWER: Michael Jackson
+KEYWORDS QUERY: ['"Man', 'The Mirror']
+RESULTS: ['Lesbian', 'Spider-Man (2002 film)', 'Ken Barlow', 'Third gender', 'The Man with the Golden Gun (film)', 'Amateur telescope making', 'Catholic Church and women', 'Parallel universe (fiction)', 'The Taming of the Shrew', 'File: Cleveley, Cape St Vincent.jpg|left|thumb| The Battle of Cape St Vincent, 14 February 1797\n\nby Robert Cleveley']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+CLUE: Matthias Church, or Matyas Templom, where Franz Joseph was crowned in 1867
+ANSWER: Budapest
+KEYWORDS QUERY: ['Matthias Church', 'Matyas Templom', 'Franz Joseph']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: UCLA CELEBRITY ALUMNI
+CLUE: Attending UCLA in the '60s, he was no "Meathead", he just played one later on television
+ANSWER: Rob Reiner
+KEYWORDS QUERY: ['UCLA', "the '", '60s', 'he', 'no "Meathead', 'he', 'television']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: THE RESIDENTS
+CLUE: Kinch, Carter & LeBeau were all residents of Stalag 13 on this TV show
+ANSWER: Hogan's Heroes
+KEYWORDS QUERY: ['Kinch', 'Carter', 'LeBeau', 'residents', 'Stalag', 'this TV show']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: 1920s NEWS FLASH!
+CLUE: News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep!
+ANSWER: Calvin Coolidge
+KEYWORDS QUERY: ['News', 'This less-than-yappy pappy', 'sixth veep', "nation's top dog", 'chief', 'deep sleep']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: GOLDEN GLOBE WINNERS
+CLUE: In 2001: The president of the United States on television
+ANSWER: Martin Sheen
+KEYWORDS QUERY: ['In 2001: The president', 'the United States', 'television']
+RESULTS: ['Ronald Reagan', 'Puerto Rico', 'Confederate States of America', 'Richard Nixon', 'Image:USA military relations 2007.png|thumb|A map of allies of the United States\n\n[tpl]legend|#66B2FF|Signatories of Partnership for Peace with NATO[/tpl', 'American Broadcasting Company', 'CBS', 'Assassination of John F. Kennedy', 'History of Cuba', 'Canada–United States relations']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: '80s NO.1 HITMAKERS
+CLUE: 1989: "Miss You Much"
+ANSWER: Janet Jackson
+KEYWORDS QUERY: ['You']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: 1920s NEWS FLASH!
+CLUE: 1922: It's the end of an empire! This empire, in fact! After 600 years, it's goodbye, this, hello, Turkish Republic!
+ANSWER: Ottoman Empire
+KEYWORDS QUERY: ['It', 'the end', 'an empire', 'This empire', 'fact', '600 years', 'it', 'goodbye', 'Turkish Republic']
+RESULTS: ['British Army']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NAME THE PARENT COMPANY
+CLUE: Crest toothpaste
+ANSWER: Procter & Gamble
+KEYWORDS QUERY: ['Crest toothpaste']
+RESULTS: ['Toothpaste', 'Crest (toothpaste)', 'Procter & Gamble', 'CBS', 'File:Eruptingtoothwithlabels11-24-05.jpg|thumb|Histologic slide of tooth erupting into the mouth. \nA: tooth \nB: gingiva\n\nC: bone\n\nD: periodontal ligaments']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: YES
+
+CATEGORY: HISTORICAL QUOTES
+CLUE: In 1888 this Chancellor told the Reichstag, "we Germans fear God, but nothing else in the world"
+ANSWER: Otto von Bismarck|Von Bismarck
+KEYWORDS QUERY: ['this Chancellor', 'the Reichstag', 'we Germans', 'God', 'the world']
+RESULTS: ['Joachim von Ribbentrop', 'Otto von Bismarck', 'Wilhelm II, German Emperor', 'Neville Chamberlain', 'crimes against humanity', 'Erich Ludendorff', 'Reich', 'Kim Philby', 'Nazi concentration camps']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: POETS & POETRY
+CLUE: In 1787 he signed his first published poem "Axiologus"; axio- is from the Greek for "worth"
+ANSWER: William Wordsworth
+KEYWORDS QUERY: ['he', 'his first published poem', '"Axiologus', 'axio-', 'the Greek']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CAMBODIAN HISTORY & CULTURE
+CLUE: Not to be confused with karma, krama is a popular accessory sold in cambodia; the word means "scarf" in this national language of Cambodia
+ANSWER: Khmer language
+KEYWORDS QUERY: ['karma', 'krama', 'a popular accessory', 'cambodia', 'the word', '"scarf', 'this national language', 'Cambodia']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: CAMBODIAN HISTORY & CULTURE
+CLUE: Phnom Penh's notorious gridlock is circumvented by the nimble tuk-tuk, a motorized taxi that's also known as an auto this, a similar Asian conveyance.
+ANSWER: Rickshaw
+KEYWORDS QUERY: ["Phnom Penh's notorious gridlock", 'the nimble tuk-tuk', 'a motorized taxi', 'that', 'an auto', 'this', 'a similar Asian conveyance']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: '80s NO.1 HITMAKERS
+CLUE: 1980: "Rock With You"
+ANSWER: Michael Jackson
+KEYWORDS QUERY: ['"Rock', 'You']
+RESULTS: ['Rock music', 'Kid Rock', 'Punk rock', 'Rock and roll', 'Sedimentary rock', 'Rock and Roll Hall of Fame', 'Chris Rock', 'Rock-paper-scissors', 'Christian rock', 'Toronto Rock']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NOTES FROM THE CAMPAIGN TRAIL
+CLUE: The Pulitzer-winning "The Making of the President 1960" covered this man's successful presidential campaign
+ANSWER: JFK|John F. Kennedy
+KEYWORDS QUERY: ['The Pulitzer-winning "The Making', 'the President', "this man's successful presidential campaign"]
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: SERVICE ORGANIZATIONS
+CLUE: In 1843 Isaac Dittenhoefer became the first pres. of this Jewish club whose name means "children of the covenant"
+ANSWER: B'nai B'rith
+KEYWORDS QUERY: ['1843 Isaac Dittenhoefer', 'the first pres', 'this Jewish club', 'whose name', 'children', 'the covenant']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: THE RESIDENTS
+CLUE: Don Knotts took over from Norman Fell as the resident landlord on this sitcom
+ANSWER: Three's Company
+KEYWORDS QUERY: ['Don Knotts', 'Norman Fell', 'the resident landlord', 'this sitcom']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: OLD YEAR'S RESOLUTIONS
+CLUE: U.N. Res. 242 supports "secure and recognized boundaries" for Israel & neighbors following this June 1967 war
+ANSWER: The Six Day War
+KEYWORDS QUERY: ['U.N. Res. 242 supports "secure and recognized boundaries', 'Israel', 'neighbors', 'this June 1967 war']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: UCLA CELEBRITY ALUMNI
+CLUE: This blonde beauty who reprised her role as Amanda on the new "Melrose Place" was a psychology major
+ANSWER: Heather Locklear
+KEYWORDS QUERY: ['This blonde beauty', 'who', 'her role', 'Amanda', 'the new "Melrose Place', 'a psychology']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: GREEK FOOD & DRINK
+CLUE: The name of this dish of marinated lamb, skewered & grilled, comes from the Greek for "skewer" & also starts with "s"
+ANSWER: Souvlaki
+KEYWORDS QUERY: ['The name', 'this dish', 'marinated lamb', 'the Greek', '"skewer']
+RESULTS: []
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: NAME THE PARENT COMPANY
+CLUE: Post-it notes
+ANSWER: 3M
+KEYWORDS QUERY: ['Post', '-', 'it']
+RESULTS: ['United States Postal Service', 'The Washington Post', 'Watergate complex', 'Post Office Ltd', 'New York Post', 'List of Palestinian rocket attacks on Israel, 2011', '4chan', 'Boston Post Road', 'Marion Barry', 'Australia Post']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: NO
+
+CATEGORY: GOLDEN GLOBE WINNERS
+CLUE: In 2010: As Sherlock Holmes on film
+ANSWER: Robert Downey, Jr.
+KEYWORDS QUERY: ['Sherlock Holmes', 'film']
+RESULTS: ['Sherlock Holmes', 'Charlie Chaplin', 'Irene Adler', 'Orson Welles', 'Hayao Miyazaki', 'Hammer Film Productions', 'Robert Downey, Jr.', 'Jeremy Brett', 'Universal Studios', 'Culture of the United Kingdom']
+PRECISION AT 1: INCORRECT
+CONTAINS RELEVANT ANSWER: YES
