@@ -18,7 +18,6 @@ We have tested both state-of-the-art Information Retrival systems in 2 different
 
 	- Answering Questions
 		- After indexing is complete, run **Watson.java** to start processing questions.
-		- The application reads questions from _Jeopardy/src/main/resources/questions.txt_, searches for answers using the built index, and evaluates the answers based on the expected results.
 		- Performance metrics and error analysis are displayed in the console.
 
 - Whoosh, Python

@@ -73,7 +73,7 @@ public class Watson {
             Query q = new QueryParser("tokens", analyzer).parse(QueryParser.escape(query));
             IndexReader reader = DirectoryReader.open(index);
             IndexSearcher searcher = new IndexSearcher(reader);
-            TopDocs docs = searcher.search(q, 1);
+            TopDocs docs = searcher.search(q, 10);
             ScoreDoc[] hits = docs.scoreDocs;
             for (ScoreDoc s : hits) {
                 Document answerDoc = searcher.doc(s.doc);
