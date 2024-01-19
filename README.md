@@ -1,18 +1,26 @@
 # Jeopardy Question Answering System
 
 ## Overview
-This project simulates IBM Watson's Jeopardy challenge by processing and answering Jeopardy-style questions. It uses Apache Lucene, a high-performance, full-featured text search engine library written in Java, as its Information Retrieval (IR) backbone.
+This project simulates IBM Watson's Jeopardy challenge by processing and answering Jeopardy-style questions. 
+
+We have tested both state-of-the-art Information Retrival systems in 2 different programs and compared them in our documentation
+- The folder **Lucerne** uses Apache Lucene, a high-performance, full-featured text search engine library written in Java, as its Information Retrieval (IR) backbone, written in java and yields better results and can be run as a trial as it is faster
+
+- in **Whoosh** can be found the other IR system written in python, contains slightly more informationand was more tested but it runs much slower.
+
 
 
 ## How to Build and Run the Application
-- Indexing Wikipedia Pages:
-	- Run **Indexer.java** first to build the index. This process reads Wikipedia pages from the specified directory, processes the text, and builds an index for efficient searching.
-	- The index is stored in the _Jeopardy/src/main/resources/index_ directory.
+- Lucerne, java
+	- Indexing Wikipedia Pages:
+		- Run **Indexer.java** first to build the index
+		- The index is stored in the _Jeopardy/src/main/resources/index_ directory.
 
-- Answering Questions
-	- After indexing is complete, run **Watson.java** to start processing questions.
-	- The application reads questions from _Jeopardy/src/main/resources/questions.txt_, searches for answers using the built index, and evaluates the answers based on the expected results.
-	- Performance metrics and error analysis are displayed in the console.
+	- Answering Questions
+		- After indexing is complete, run **Watson.java** to start processing questions.
+		- The application reads questions from _Jeopardy/src/main/resources/questions.txt_, searches for answers using the built index, and evaluates the answers based on the expected results.
+		- Performance metrics and error analysis are displayed in the console.
+
 
 
 ## Features
