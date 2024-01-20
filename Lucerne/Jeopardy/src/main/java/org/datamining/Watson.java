@@ -47,8 +47,8 @@ public class Watson {
 
     public static void main(String[] args) {
         try {
-            String directory = "../DataSets/wikipediaPages";
-            String questionFile = "../DataSets/questions.txt";
+            String directory = String.valueOf(Paths.get("DataSets/wikipediaPages"));
+            String questionFile = String.valueOf(Paths.get("DataSets/questions.txt"));
             Watson jEngine = new Watson(directory, questionFile);
 
             jEngine.parseQuestions(questionFile);

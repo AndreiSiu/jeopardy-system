@@ -27,3 +27,5 @@ replay_pid*
 *.toc
 *.seg
 MAIN_WRITELOCK
+Whoosh/improved_indexer/Index_test/
+.idea/
